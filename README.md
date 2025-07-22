@@ -1,2 +1,2 @@
-# I.O.H.S.
+# Iroko Organic Health Solutions
 A website for a health business organization.......
